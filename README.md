@@ -1,1 +1,3 @@
 # ejercicios
+## Hobbies
+- Dancing: ...
