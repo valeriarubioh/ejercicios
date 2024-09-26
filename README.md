@@ -1,1 +1,2 @@
 # ejercicios
+languages= spanish
